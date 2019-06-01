@@ -8,3 +8,8 @@
   
   
   
+## Application Design
+
+![App Diagram](https://user-images.githubusercontent.com/37962353/58741461-d0c81100-83e6-11e9-84e8-5b445fb615bc.png)
+
+![Flood prediction design diagram](https://user-images.githubusercontent.com/37962353/58741462-d0c81100-83e6-11e9-8e95-732f361ce157.png)
