@@ -26,10 +26,3 @@ Source 3 : The last dataset used is the NOAA Precipitation Reconstruction. This 
 
 
 ## More details
-
-
-
-
-
-
-
