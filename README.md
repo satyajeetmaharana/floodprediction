@@ -10,7 +10,7 @@
 We created a flood prediction application that uses various sources of publicly available weather data with a random forest model. After cleaning and extracting features from the data, we utilize various tools like Spark and MLlib along with
 GeoPandas and the United States GeoJSON dataset to train a model that has an accuracy of 80% and a precision of 85%. The prediction results of the model are displayed in a Tableau workbook which has seen success in predicting floods that have occurred in the real world. We believe that this application can be used as another tool alongside existing technologies for flood detection and prevention. Our application will be able to support and validate findings from existing tools, which will result in a more thorough check for floods. This can hopefully prompt more preemptive action from various counties across the United States to mitigate damages from flooding.
 
-[Read the paper](../blob/master/Flood_Prediction_Final_Paper.pdf)
+[Read the paper](../master/Flood_Prediction_Final_Paper.pdf)
 
 ## Datasets
 
