@@ -1,8 +1,0 @@
-[sm8235@login-2-1 ~]$ hdfs dfs -getmerge /user/sm8235/final_26/FloodPrediction.csv floodPrediction_dataset.csv
-
-[sm8235@login-2-1 ~]$ python csv2libsvm.py --skip-headers floodPrediction_dataset.csv floodPrediction_dataset_libsvm.txt
-
-
-
-
-
