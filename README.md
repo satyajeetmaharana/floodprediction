@@ -1,8 +1,5 @@
 # Flood Prediction in the United States using machine learning methods
 
- [Visit Website](https://satyajeetmaharana.github.io/floodprediction/)
-
-
 ## Introduction
 
   Floods can be categorized into both slow- developing flowing water and flash flowing water. Floods are temporary but have an exceptional  impact on the area while flooding. We built a Random Forest prediction model based on and visualize the probability of flooding among different areas in Tableau. We also built a small email service to alert counties about the possibility of future flooding. We hope that our application can help with future flood detection and prevent within the United States.
