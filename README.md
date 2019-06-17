@@ -14,8 +14,6 @@ GeoPandas and the United States GeoJSON dataset to train a model that has an acc
 
 [Read the paper](https://github.com/satyajeetmaharana/floodprediction/blob/master/Flood_Prediction_Final_Paper.pdf)
 
-[Read the paper](../master/Flood_Prediction_Final_Paper.pdf)
-
 ## Datasets
 
 Source 1 : The first dataset considered is the NCDC Storm Events dataset. The dataset covers the personal injuries and damage estimates from storms that affected areas in the U.S. The data will be filtered for flood specific events by the timing of each flood, followed by its location. This will give an idea of where and when floods in the U.S. have occurred in the past.
