@@ -13,7 +13,7 @@ GeoPandas and the United States GeoJSON dataset to train a model that has an acc
 
 ## Datasets
 
-<p style="justify-content: centre">
+<p style="justify-content: space-between;">
 Source 1 : The first dataset considered is the NCDC Storm Events dataset. The dataset covers the personal injuries and damage estimates from storms that affected areas in the U.S. The data will be filtered for flood specific events by the timing of each flood, followed by its location. This will give an idea of where and when floods in the U.S. have occurred in the past.
 
 Source 2 : The second dataset used is the NOAA Daily Summaries. The dataset contains daily weather data within the U.S. since 1763. This can be a source to look at many key metrics relating to flooding at specific times in the United States like a region’s rainfall, temperature, wind speeds. These metrics are used alongside the other datasets to confirm and compare against when flooding occurred and how much rainfall occurred at the time.
