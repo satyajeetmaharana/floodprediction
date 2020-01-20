@@ -17,7 +17,7 @@ for index, row in flood_alert_df.head(n=number_of_emails_to_send).iterrows():
     print(row)
     s = smtplib.SMTP('smtp.gmail.com', 587) 
     s.starttls() 
-    s.login("satyaj33t.m@gmail.com", "iFzTJKX6t5xin9n") 
+    s.login("satyaj33t.m@gmail.com", "***OWNPASSWORD***") 
     msg = MIMEText("Hi this is a flood warning for "+ str(row['county']) + " County " +'\n\nPredicted Month: ' + str(row['Month']) + '\n' + 'Predicted Year: ' + str(row['Year']) + '\nLatitude: ' + str(row['Lat']) + '\nLongitude: ' + str(row['Long']))
     msg['Subject'] = 'Flood Alert For County ' + str(row['county']) + ' in ' + str(row['Month']) + '/' + str(row['Year'])
     msg['From'] = "satyajeet.ps3@gmail.com"
